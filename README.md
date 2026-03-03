@@ -23,6 +23,8 @@
 
 ## Description
 
+This repository is located at `d:\My Learning\NestJS\employee-crud\NestJS-CRUD` on the local filesystem.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
